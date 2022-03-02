@@ -25,7 +25,7 @@ Se piden los siguientes subapartados:
 ### 1.4   Comentario sobre la complejidad del modelo y el compromiso sesgo-varianza
 
  
-
+# 
 ## 2.       Modelo estocástico de la temperatura y aplicación para valorar una cobertura:
 
  
@@ -59,6 +59,7 @@ Supongamos un derivado cuyo subyacente es el volumen de electricidad entregado p
 ### 2.5 Proponer una forma de valorar la prima a pagar (a 1 de enero de 2020) por este producto.
 
  
+ #
 
 ## 3.       Modelo de consumo de electricidad anual en España a largo plazo basado en fundamentales.
 
